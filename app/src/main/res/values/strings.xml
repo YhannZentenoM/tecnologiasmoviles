@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">No Mas Filas</string>
+    <string name="nro_dni">DNI</string>
+    <string name="btn_ingresar">Ingresar</string>
+</resources>
